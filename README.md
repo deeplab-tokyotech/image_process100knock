@@ -8,7 +8,7 @@
 
 ## リポジトリのクローン
 ```
-git clone git@github.com:dsaito3110/image_process100knock.git
+git clone git@github.com:deeplab-tokyotech/image_process100knock.git
 cd img_process100
 mkdir {UserName}
 cd {UserName}
