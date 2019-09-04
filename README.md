@@ -9,7 +9,7 @@
 ## リポジトリのクローン
 ```
 git clone git@github.com:deeplab-tokyotech/image_process100knock.git
-cd img_process100
+cd image_process100knock
 mkdir {UserName}
 cd {UserName}
 ```
